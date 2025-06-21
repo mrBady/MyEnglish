@@ -18,7 +18,7 @@ function saveScores() {
 
 async function fetchWordFromDB() {
   try {
-    const response = await fetch("/js/DB.json");
+    const response = await fetch("./js/DB.json");
     const data = await response.json();
 
     wordsArray = data.words;  // Сохраняем весь массив слов
