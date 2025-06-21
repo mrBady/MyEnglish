@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "main": "travel", "ru": "путешествовать" },
+    { "main": "weather", "ru": "погода" },
+    { "main": "usually", "ru": "обычно" },
+    { "main": "important", "ru": "важный" },
+    { "main": "family", "ru": "семья" },
+    { "main": "breakfast", "ru": "завтрак" },
+    { "main": "different", "ru": "разный" },
+    { "main": "busy", "ru": "занятый" },
+    { "main": "decide", "ru": "решать" },
+    { "main": "forget", "ru": "забывать" },
+    { "main": "job", "ru": "работа" },
+    { "main": "late", "ru": "опоздавший" },
+    { "main": "hungry", "ru": "голодный" },
+    { "main": "message", "ru": "сообщение" },
+    { "main": "next", "ru": "следующий" },
+    { "main": "start", "ru": "начинать" },
+    { "main": "idea", "ru": "идея" },
+    { "main": "question", "ru": "вопрос" },
+    { "main": "answer", "ru": "ответ" },
+    { "main": "remember", "ru": "помнить" },
+    { "main": "happen", "ru": "случаться" },
+    { "main": "easy", "ru": "лёгкий" },
+    { "main": "difficult", "ru": "трудный" },
+    { "main": "expensive", "ru": "дорогой" },
+    { "main": "cheap", "ru": "дешёвый" }
+  ]
+}
